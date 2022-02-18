@@ -1,4 +1,4 @@
-package com.javatechnolessons.demo.model;
+package com.SpringBoot_Restfull.model;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

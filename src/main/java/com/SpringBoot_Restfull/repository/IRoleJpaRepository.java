@@ -1,7 +1,6 @@
-package com.javatechnolessons.demo.repository;
+package com.SpringBoot_Restfull.repository;
 
-import com.javatechnolessons.demo.model.Role;
-
+import com.SpringBoot_Restfull.model.Role;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

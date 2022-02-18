@@ -1,10 +1,10 @@
-package com.javatechnolessons.demo.repository;
+package com.SpringBoot_Restfull.repository;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertNotNull;
 
-import com.javatechnolessons.demo.model.Role;
 
+import com.SpringBoot_Restfull.model.Role;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.jdbc.AutoConfigureTestDatabase;

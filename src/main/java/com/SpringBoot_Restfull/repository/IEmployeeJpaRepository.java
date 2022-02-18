@@ -1,4 +1,4 @@
-package com.javatechnolessons.demo.repository;
+package com.SpringBoot_Restfull.repository;
 
 import java.util.List;
 
